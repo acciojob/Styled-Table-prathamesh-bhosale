@@ -1,1 +1,10 @@
 /* your code */
+table{
+	width: 100%;
+}
+thead{
+	background-color: cadetblue;
+}
+.col-gray{
+	background-color: gray;
+}
